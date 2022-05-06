@@ -5,9 +5,9 @@ This Script Hide Your Code There Are Many Options to use
 
 #Commands 
 
-git clone https://github.com/techwaiser/HideMe
+git clone https://github.com/techwaiser/Hideme
 
-cd HideMe
+cd Hideme
 
 python run.py
 
